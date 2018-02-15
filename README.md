@@ -15,11 +15,11 @@ This are the learning Goals for this project
 
 These are the tutorials and documentation that I used when creating this project
 
-Installation Documentation:  
+#### Installation Documentation:  
 https://docs.opencv.org/trunk/d2/de6/tutorial_py_setup_in_ubuntu.html  
-General OpenCV:  
-https://docs.opencv.org/3.1.0/d9/df8/tutorial_root.html
-Circle Detector Functionality:  
+#### General OpenCV:  
+https://docs.opencv.org/3.1.0/d9/df8/tutorial_root.html  
+#### Circle Detector Functionality:  
 https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/hough_circle/hough_circle.html
 
 ## Result
